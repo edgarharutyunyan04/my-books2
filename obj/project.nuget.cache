@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pyTP4Ob1KchO+T1yvmJMJKY9+7BpSN0gbLmvwMk/RHJlj++QjSZC4d+93Gxn+Sr1yztoIOfJwrS+v/pR8fmnpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\my-books2\\my-books2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
